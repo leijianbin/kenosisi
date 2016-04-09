@@ -5,4 +5,4 @@ Konosisi Website
 
 2. Then fork the repo to the root folder of the wordpress, and pull it.
 
-3. I know how to solve the conflict asd asd sa
+3. How to solve the complict
